@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta Gym / Fitness deportiva oscura moderna -->
+    <color name="app_background">#11141D</color>
+    <color name="card_background">#1A202E</color>
+    <color name="card_stroke">#2E364E</color>
+    <color name="surface_variant">#232A3E</color>
+
+    <!-- Acentos enérgicos -->
+    <color name="primary_accent">#FF5722</color>
+    <color name="primary_accent_variant">#F4511E</color>
+    <color name="primary_accent_20">#33FF5722</color>
+    <color name="flame_accent">#FFA726</color>
+    <color name="quote_accent">#3E4A68</color>
+
+    <!-- Badge categoría -->
+    <color name="badge_background">#2E2525</color>
+    <color name="badge_stroke">#FF5722</color>
+    <color name="badge_text">#FF8A65</color>
+
+    <!-- Tipos de pereza y sus colores asociados -->
+    <color name="pereza_ligera">#4CAF50</color>        <!-- Verde -->
+    <color name="pereza_moderada">#FFC107</color>      <!-- Amarillo -->
+    <color name="pereza_extrema">#F44336</color>       <!-- Rojo -->
+    <color name="pereza_absoluta">#9C27B0</color>      <!-- Morado -->
+
+    <color name="pereza_ligera_bg">#1B2E21</color>
+    <color name="pereza_moderada_bg">#2F2916</color>
+    <color name="pereza_extrema_bg">#341C1D</color>
+    <color name="pereza_absoluta_bg">#281630</color>
+
+    <!-- Tipografía -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9EABC0</color>
+    <color name="text_muted">#66738B</color>
+
+    <!-- Acciones secundarias -->
+    <color name="button_secondary_bg">#252C3E</color>
+    <color name="button_secondary_stroke">#3A445F</color>
+</resources>

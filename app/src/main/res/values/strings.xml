@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Excusas Para El Gym</string>
+    <string name="app_subtitle">Generador de pretextos infalibles</string>
+    <string name="tag_category_sample">🛋️ PEREZA NIVEL DIOS</string>
+    <string name="excuse_number_sample">Excusa #1</string>
+    <string name="excuse_sample_text">“Hoy me duele un músculo que ni siquiera sabía que existía en la anatomía humana.”</string>
+    <string name="credibility_label">Credibilidad:</string>
+    <string name="credibility_sample_value">99% (Inmune a críticas)</string>
+    <string name="btn_generate_text">DAME OTRA EXCUSA</string>
+    <string name="btn_copy_text">Copiar</string>
+    <string name="btn_share_text">Compartir</string>
+    <string name="tip_footer">💡 Consejo de oro: Si vas mañana al gym, habrás descansado el doble hoy.</string>
+</resources>
